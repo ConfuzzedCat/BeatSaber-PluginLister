@@ -1,0 +1,132 @@
+Game version: 1.13.0
+
+Mod: AutoPauseStealth.dll
+Version: 0.1.9
+
+Mod: BeatSaverDownloader.dll
+Version: 5.4.0.0
+
+Mod: BeatSaverVoting.dll
+Version: 1.3.2.0
+
+Mod: BetterMenu.dll
+Version: 1.0.1
+
+Mod: BSML.dll
+Version: 1.4.2.0
+
+Mod: BS_Utils.dll
+Version: 1.6.5
+
+Mod: CameraPlus.dll
+Version: 4.6.0
+
+Mod: Chroma.dll
+Version: 2.2.8
+
+Mod: Counters+.dll
+Version: 2.1.2
+
+Mod: Custom Campaigns.dll
+Version: 2.7.0.0
+
+Mod: CustomAvatar.dll
+Version: 5.0.2
+
+Mod: CustomJSONData.dll
+Version: 1.1.2
+
+Mod: CustomNotes.dll
+Version: 2.1.2
+
+Mod: DataPuller.dll
+Version: 1.1.1
+
+Mod: DiColors.dll
+Version: 1.0.0
+
+Mod: Enhancements.dll
+Version: 3.0.0
+
+Mod: FastFail.dll
+Version: 2.0.1
+
+Mod: FPSCounter.dll
+Version: 3.0.5
+
+Mod: GottaGoFast.dll
+Version: 0.0.3
+
+Mod: HitSoundChanger.dll
+Version: 1.3.0.0
+
+Mod: IntroSkip.dll
+Version: 3.1.2.0
+
+Mod: MappingExtensions.dll
+Version: 1.5.0.0
+
+Mod: MusicSpatializer.dll
+Version: 1.2.3.0
+
+Mod: NalulunaFlyingScore.dll
+Version: 0.0.4
+
+Mod: NalulunaStatistics.dll
+Version: 0.0.2
+
+Mod: NoBoom.dll
+Version: 0.0.1
+
+Mod: NoodleExtensions.dll
+Version: 1.3.4
+
+Mod: ParticleOverdrive.dll
+Version: 1.7.0.0
+
+Mod: PlaylistLoaderLite.dll
+Version: 1.2.4
+
+Mod: PPCounter.dll
+Version: 1.0.2
+
+Mod: RumbleMod.dll
+Version: 1.0.5
+
+Mod: SaberFactory.dll
+Version: 1.6.3.0
+
+Mod: ScorePercentage.dll
+Version: 1.4.0
+
+Mod: ScoreSaber.dll
+Version: 2.3.6.0
+
+Mod: ServerBrowser.dll
+Version: 0.2.0
+
+Mod: SiraUtil.dll
+Version: 2.3.1
+
+Mod: SongBrowser.dll
+Version: 6.1.2
+
+Mod: SongCore.dll
+Version: 3.0.3
+
+Mod: SongDataCore.dll
+Version: 1.3.5
+
+Mod: SpeedyPractice.dll
+Version: 1.1.0
+
+Mod: StepBackWall.dll
+Version: 1.3.0.0
+
+Mod: TwitchFX.dll
+Version: 1.5.4
+
+Mod: Versus.dll
+Version: 1.13.2.0
+
+Plugins found: 43
