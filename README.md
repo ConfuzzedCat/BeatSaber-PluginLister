@@ -1,4 +1,4 @@
-# PluginLister
+# BeatSaber-PluginLister
 Beat saber mods list maker
 
 
